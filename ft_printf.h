@@ -6,12 +6,12 @@
 /*   By: rcenteno <rcenteno@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 14:56:39 by rcenteno          #+#    #+#             */
-/*   Updated: 2024/12/12 17:12:23 by rcenteno         ###   ########.fr       */
+/*   Updated: 2024/12/12 17:17:43 by rcenteno         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FTPRINTF_H
-# define FTPRINTF_H
+#ifndef FT_PRINTF_H
+# define FT_PRINTF_H
 
 # include <stdarg.h>
 # include <stdio.h>
