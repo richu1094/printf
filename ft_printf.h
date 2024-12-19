@@ -6,7 +6,7 @@
 /*   By: rcenteno <rcenteno@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/13 14:56:39 by rcenteno          #+#    #+#             */
-/*   Updated: 2024/12/12 17:17:43 by rcenteno         ###   ########.fr       */
+/*   Updated: 2024/12/19 14:48:06 by rcenteno         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,6 @@
 # include <stdlib.h>
 # include <unistd.h>
 
-// int	ft_printf(char const *, ...);
+int	ft_printf(char const *str, ...);
 
 #endif
