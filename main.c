@@ -47,5 +47,10 @@ int main() {
     ret2 = printf("%u\n", u_num);
     printf("Return values: ft_printf = %d, printf = %d\n\n", ret1, ret2);
 
+    printf("---- Test 8: Percent ----\n");
+    ret1 = ft_printf("%%\n");
+    ret2 = printf("%%\n");
+    printf("Return values: ft_printf = %d, printf = %d\n\n", ret1, ret2);
+
     return 0;
 }
